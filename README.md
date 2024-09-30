@@ -8,3 +8,5 @@ MrsMajor3.0を再現したもの
 
 参照:
 https://github.com/Gork3m/MrsMajor-3.0/tree/master
+# Download Net FrameWork 4.0 Developer Pack
+https://stackoverflow.com/questions/74353631/download-net-framework-4-0-targeting-pack

@@ -1,0 +1,12 @@
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\gdifuncs\obj\Debug\gdifuncs.csproj.AssemblyReference.cache
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\gdifuncs\bin\Debug\tobi0a0c.exe.config
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\gdifuncs\bin\Debug\tobi0a0c.exe
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\gdifuncs\bin\Debug\tobi0a0c.pdb
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\gdifuncs\obj\Debug\gdifuncs.MainForm.resources
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\gdifuncs\obj\Debug\gdifuncs.majorsgui.resources
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\gdifuncs\obj\Debug\gdifuncs.pinksavage.resources
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\gdifuncs\obj\Debug\gdifuncs.protection64.resources
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\gdifuncs\obj\Debug\gdifuncs.csproj.GenerateResource.cache
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\gdifuncs\obj\Debug\gdifuncs.csproj.CoreCompileInputs.cache
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\gdifuncs\obj\Debug\tobi0a0c.exe
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\gdifuncs\obj\Debug\tobi0a0c.pdb

@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C36A81B2-57F9-4A7C-99E8-AF0B1AF6C90A}|mbr\\mbr.vcxproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\mbr\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C36A81B2-57F9-4A7C-99E8-AF0B1AF6C90A}|mbr\\mbr.vcxproj|solutionrelative:mbr\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v150\\Platforms\\x64\\PlatformToolsets\\v141_xp\\Toolset.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|main||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\mrsmajor3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|solutionrelative:mrsmajor3.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBED04A-0A95-4BED-A7FC-66D9219789A1}|gdifuncs\\gdifuncs.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\protection64.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBED04A-0A95-4BED-A7FC-66D9219789A1}|gdifuncs\\gdifuncs.csproj|solutionrelative:gdifuncs\\protection64.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\mrsmajor3.0\\resources\\winrapisti386.vbs||{A52A054C-5228-4819-B568-E5B8040801B5}",
+      "RelativeMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|solutionrelative:mrsmajor3.0\\resources\\winrapisti386.vbs||{A52A054C-5228-4819-B568-E5B8040801B5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBED04A-0A95-4BED-A7FC-66D9219789A1}|gdifuncs\\gdifuncs.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DBED04A-0A95-4BED-A7FC-66D9219789A1}|gdifuncs\\gdifuncs.csproj|solutionrelative:gdifuncs\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE1EA6D-28DC-4A65-9DD2-4D1D01361AAE}|logonui\\logonui.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\logonui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE1EA6D-28DC-4A65-9DD2-4D1D01361AAE}|logonui\\logonui.csproj|solutionrelative:logonui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE1EA6D-28DC-4A65-9DD2-4D1D01361AAE}|logonui\\logonui.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\logonui\\logonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DE1EA6D-28DC-4A65-9DD2-4D1D01361AAE}|logonui\\logonui.csproj|solutionrelative:logonui\\logonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBED04A-0A95-4BED-A7FC-66D9219789A1}|gdifuncs\\gdifuncs.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\pinksavage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DBED04A-0A95-4BED-A7FC-66D9219789A1}|gdifuncs\\gdifuncs.csproj|solutionrelative:gdifuncs\\pinksavage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBED04A-0A95-4BED-A7FC-66D9219789A1}|gdifuncs\\gdifuncs.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\majorsgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DBED04A-0A95-4BED-A7FC-66D9219789A1}|gdifuncs\\gdifuncs.csproj|solutionrelative:gdifuncs\\majorsgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBED04A-0A95-4BED-A7FC-66D9219789A1}|gdifuncs\\gdifuncs.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBED04A-0A95-4BED-A7FC-66D9219789A1}|gdifuncs\\gdifuncs.csproj|solutionrelative:gdifuncs\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBED04A-0A95-4BED-A7FC-66D9219789A1}|gdifuncs\\gdifuncs.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\protection64.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DBED04A-0A95-4BED-A7FC-66D9219789A1}|gdifuncs\\gdifuncs.csproj|solutionrelative:gdifuncs\\protection64.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\mrsmajor3.0\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|solutionrelative:mrsmajor3.0\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\mrsmajor3.0\\resources\\winsxs.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|solutionrelative:mrsmajor3.0\\resources\\winsxs.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\mrsmajor3.0\\resources\\mainbgtheme.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|solutionrelative:mrsmajor3.0\\resources\\mainbgtheme.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\mrsmajor3.0\\resources\\rcur.cur||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|solutionrelative:mrsmajor3.0\\resources\\rcur.cur||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\mrsmajor3.0\\resources\\tobi0a0c.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E49A7E01-DBB0-40FA-B243-07F398C9DE7A}|MrsMajor3.0\\main.csproj|solutionrelative:mrsmajor3.0\\resources\\tobi0a0c.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Toolset.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v150\\Platforms\\x64\\PlatformToolsets\\v141_xp\\Toolset.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v150\\Platforms\\x64\\PlatformToolsets\\v141_xp\\Toolset.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v150\\Platforms\\x64\\PlatformToolsets\\v141_xp\\Toolset.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v150\\Platforms\\x64\\PlatformToolsets\\v141_xp\\Toolset.targets",
+              "ViewState": "AgIAABgAAAAAAAAAAADgvycAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-30T16:33:04.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\main.csproj",
+              "RelativeDocumentMoniker": "MrsMajor3.0\\main.csproj",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\main.csproj",
+              "RelativeToolTip": "MrsMajor3.0\\main.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T16:23:55.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\mbr\\main.c",
+              "RelativeDocumentMoniker": "mbr\\main.c",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\mbr\\main.c",
+              "RelativeToolTip": "mbr\\main.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-30T16:02:25.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\Program.cs",
+              "RelativeDocumentMoniker": "MrsMajor3.0\\Program.cs",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\Program.cs",
+              "RelativeToolTip": "MrsMajor3.0\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:59:58.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "protection64.cs",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\protection64.cs",
+              "RelativeDocumentMoniker": "gdifuncs\\protection64.cs",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\protection64.cs",
+              "RelativeToolTip": "gdifuncs\\protection64.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAmwLEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:59:51.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\logonui\\Program.cs",
+              "RelativeDocumentMoniker": "logonui\\Program.cs",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\logonui\\Program.cs",
+              "RelativeToolTip": "logonui\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:55:57.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "functions.cs",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\functions.cs",
+              "RelativeDocumentMoniker": "gdifuncs\\functions.cs",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\functions.cs",
+              "RelativeToolTip": "gdifuncs\\functions.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:51:28.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "majorsgui.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\majorsgui.cs",
+              "RelativeDocumentMoniker": "gdifuncs\\majorsgui.cs",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\majorsgui.cs [Design]",
+              "RelativeToolTip": "gdifuncs\\majorsgui.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:51:23.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pinksavage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\pinksavage.cs",
+              "RelativeDocumentMoniker": "gdifuncs\\pinksavage.cs",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\pinksavage.cs [Design]",
+              "RelativeToolTip": "gdifuncs\\pinksavage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:51:22.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WinRapistI386.vbs",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\Resources\\WinRapistI386.vbs",
+              "RelativeDocumentMoniker": "MrsMajor3.0\\Resources\\WinRapistI386.vbs",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\Resources\\WinRapistI386.vbs",
+              "RelativeToolTip": "MrsMajor3.0\\Resources\\WinRapistI386.vbs",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEaSURBVDhPrZQLEoMgDESh04NxM/FmejKbFxIbhX6mdWdSYpBl87G51rqli1CnKd3VqTVr5IR3l8Uzy7K093JuhCNAxo2KLG9u28a6H06JtRNys/UyDBWqupZSU0Pq86yplVIsVPU9cQ8qO8JAllJI2ckgAk58xssauir3o7KAL2tIA1CJQkx8UWibSuLW4fKmdITUr5IqKlkxUhaFppJG\u002BOj0oAnmHqBxSDFgK83BiPAMYmyYsl\u002BCUlXLYVdaSsaC2iPOCv05qGCM3Jffpjqq/KjwH\u002BxzuKfJuIiCIp\u002Bv\u002BG3PRkeVravGbC670YmEuglx4dCzq3IstxJIPHwhwzlUAnMjvD4j6xBrqH\u002Bw4da/AM/lTaEOwzR\u002BQ0oPbRHUw9GAnNwAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-30T15:44:53.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "protection64.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\protection64.cs",
+              "RelativeDocumentMoniker": "gdifuncs\\protection64.cs",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\protection64.cs [Design]",
+              "RelativeToolTip": "gdifuncs\\protection64.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:51:20.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "logonui.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\logonui\\logonui.cs",
+              "RelativeDocumentMoniker": "logonui\\logonui.cs",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\logonui\\logonui.cs [Design]",
+              "RelativeToolTip": "logonui\\logonui.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:42:06.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\MainForm.cs",
+              "RelativeDocumentMoniker": "gdifuncs\\MainForm.cs",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\gdifuncs\\MainForm.cs [Design]",
+              "RelativeToolTip": "gdifuncs\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:42:33.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "functions.cs",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\functions.cs",
+              "RelativeDocumentMoniker": "MrsMajor3.0\\functions.cs",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\functions.cs",
+              "RelativeToolTip": "MrsMajor3.0\\functions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:41:46.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "winsxs.ico - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\Resources\\winsxs.ico",
+              "RelativeDocumentMoniker": "MrsMajor3.0\\Resources\\winsxs.ico",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\Resources\\winsxs.ico - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "MrsMajor3.0\\Resources\\winsxs.ico - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-09-30T15:45:01.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "mainbgtheme.wav",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\Resources\\mainbgtheme.wav",
+              "RelativeDocumentMoniker": "MrsMajor3.0\\Resources\\mainbgtheme.wav",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\Resources\\mainbgtheme.wav",
+              "RelativeToolTip": "MrsMajor3.0\\Resources\\mainbgtheme.wav",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALoSURBVDhPrVRLbxJRFP54DgJtkSIFpY/UlEJp03YhsQmJCxNj3LmQrow/oPEn1K0bY7oy7cbGRZcuTBMf1cSYCEkl2ibQF0RrKQ00lFfoQNuBwTPDSOVlXPglJ3fmzDnffPfccy7\u002BKyqVikx6hNFoNFut1n7ptS1yuVwqkUhESwTJ1Rper3cmEonw\u002B/v7fDQabWk/d3fLS0tLPrfbfUNGkFJbY3p6eiadTvN/Q7FQ4EOhELe8vOwfGxtzS6l1kEtrDVSG9lYNUUxNTblfLC4\u002BJ9JrVdc5mghb4VUwg7kPMZR4IJ/PY29vT36xu3vk0ezsgl6vH5TCRLQkbFSWOAUebxaxkiyjb2AAWq0WqVQKtt5eq0qlclGKuprZQChsqZFMMINWAbtRhWehJOIVLex2O8bHx2EymeQKpVJHaSqRgNCgUKRssizHwcGc4FaXGp8ix\u002BD5svQNMnnDadcTUgwJarIOBjiQn8Jp0KJSktX8rdBAeL7NE47H\u002Bx8sHn5MYy7Iw8XosZ3IQ60Q1AmhrRnbbjkQP4X3TQYLOyy\u002Bxgo4Zku4OdiBey7DH3HNqD8UiqnwgkKqsoKH7sIZcHYCdS6P6x0auGw6mAxMNa41X6NCAUJkBSN0qi9vX8K7u1fw\u002Bn4vvJ7LkFP5aWCIjBqyjUKFtGJ0dNTNcdwd6iv4fD58j4ShLGRg08pw1aTF07knsFot2NjYxNHRERhGhfn5hcK3tbW3BZbdIQpO4KlTaDabEYsd0CREcXh4iHK5LDZxIBDA0NAQgsEgbDabSLi6\u002BgUTExOUVa\u002B0jrC/vw/hcFgk7uzsBMseQ1C8vr4GnU4Hujyg0TBIJpPY2tqGw\u002BGQMs\u002BhlFYRFosFw8N2UmNHsVgUayUQejwe0RePx2mrDCYnJ5HNZsWfKOSKOlG1Lu/p6XE4nc4H1F9yJY0TFV9sOGEQhJ4jH4Q79fdgCD6KKfn9/hWq/WdysYK/8ZLsItOQ1Yb9H1Aky5CRAOAXvPiZo6l2iV0AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-30T15:44:50.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "rcur.cur - Cursor [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\Resources\\rcur.cur",
+              "RelativeDocumentMoniker": "MrsMajor3.0\\Resources\\rcur.cur",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\Resources\\rcur.cur - Cursor [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "MrsMajor3.0\\Resources\\rcur.cur - Cursor [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000812|",
+              "WhenOpened": "2024-09-30T15:44:46.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "tobi0a0c.exe",
+              "DocumentMoniker": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\Resources\\tobi0a0c.exe",
+              "RelativeDocumentMoniker": "MrsMajor3.0\\Resources\\tobi0a0c.exe",
+              "ToolTip": "C:\\Users\\victim\\Documents\\GitHub\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor5.1\\MrsMajor3.0\\Resources\\tobi0a0c.exe",
+              "RelativeToolTip": "MrsMajor3.0\\Resources\\tobi0a0c.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-09-30T15:44:42.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

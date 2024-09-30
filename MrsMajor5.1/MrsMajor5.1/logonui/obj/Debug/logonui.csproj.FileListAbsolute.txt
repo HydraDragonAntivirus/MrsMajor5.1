@@ -1,0 +1,9 @@
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\logonui\obj\Debug\logonui.csproj.AssemblyReference.cache
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\logonui\bin\Debug\ui66.exe
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\logonui\bin\Debug\ui66.pdb
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\logonui\obj\Debug\logonui.logonui.resources
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\logonui\obj\Debug\logonui.Properties.Resources.resources
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\logonui\obj\Debug\logonui.csproj.GenerateResource.cache
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\logonui\obj\Debug\logonui.csproj.CoreCompileInputs.cache
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\logonui\obj\Debug\ui66.exe
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\logonui\obj\Debug\ui66.pdb

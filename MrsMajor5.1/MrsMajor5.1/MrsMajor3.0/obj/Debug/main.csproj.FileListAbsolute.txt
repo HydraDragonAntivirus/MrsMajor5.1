@@ -1,0 +1,8 @@
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\MrsMajor3.0\bin\Debug\FakeMrsMajor3.0.exe
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\MrsMajor3.0\bin\Debug\FakeMrsMajor3.0.pdb
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\MrsMajor3.0\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\MrsMajor3.0\obj\Debug\MM3.Properties.Resources.resources
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\MrsMajor3.0\obj\Debug\main.csproj.GenerateResource.cache
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\MrsMajor3.0\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\MrsMajor3.0\obj\Debug\FakeMrsMajor3.0.exe
+C:\Users\victim\Documents\GitHub\MrsMajor5.1\MrsMajor5.1\MrsMajor5.1\MrsMajor3.0\obj\Debug\FakeMrsMajor3.0.pdb
